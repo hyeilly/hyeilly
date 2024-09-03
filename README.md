@@ -2,6 +2,7 @@
 - 👀 I’m interested in #Python #Docker
 - 🌱 I’m currently learning #Kubernetes #Cloud
 - 📫 How to reach me ... dev.jiine@gmail.com
+- My Report <b>https://jinyess-good.tistory.com/</b>
 
 <!---
 hyeilly/hyeilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
